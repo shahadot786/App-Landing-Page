@@ -1,0 +1,16 @@
+//google
+google.com, pub-1183995713269973, DIRECT, f08c47fec0942fa0
+
+//facebook
+facebook.com, 193947649259494, DIRECT, c3e20eee3f780d68
+
+//applovin
+applovin.com, 9e3ee08828781111b020a986c86a0b0b, DIRECT
+adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
+rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+openx.com, 540785403, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+pubnative.net, 1007170, RESELLER, d641df8625486a7b
+verve.com, 15290, RESELLER, 0c8f5958fc2d6270
+indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
+
