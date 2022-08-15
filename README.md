@@ -1,4 +1,4 @@
 # App-Landing-Page
-App Landing Page
+Dino:App Landing Page
 
-![Screenshot](app_landing_page.png)
+![alt text](http://images.shrcreation.com/GitHub/app_landing_page.PNG)
